@@ -1,0 +1,26 @@
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyc", line 486, in __bootstrap_inner
+  File "threading.pyc", line 446, in run
+  File "client.pyc", line 113, in mesg_process
+  File "Tkinter.pyc", line 2854, in delete
+TclError: invalid command name ".11611352.11611432"
+
+Exception in thread Thread-6 (most likely raised during interpreter shutdown):Exception in thread Thread-4 (most likely raised during interpreter shutdown):
+
+Exception in thread Thread-22:
+Traceback (most recent call last):
+  File "threading.pyc", line 486, in __bootstrap_inner
+  File "threading.pyc", line 446, in run
+  File "client.pyc", line 113, in mesg_process
+  File "Tkinter.pyc", line 2854, in delete
+TclError: invalid command name ".11637264.11637344"
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyc", line 486, in __bootstrap_inner
+  File "threading.pyc", line 446, in run
+  File "client.pyc", line 113, in mesg_process
+  File "Tkinter.pyc", line 2854, in delete
+TclError: invalid command name ".11599184.11599264"
+
